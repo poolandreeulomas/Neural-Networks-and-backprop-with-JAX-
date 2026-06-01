@@ -1,0 +1,4 @@
+# Add project dependencies here, for example:
+# numpy==1.27.4
+# torch==2.2.0
+# jupyterlab
